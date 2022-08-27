@@ -15,16 +15,16 @@
 <br/>  
 
 
-- 🎓 I’m currently a software engineering student at ESPRIT School of Engineering, Tunisia.  
+🎓 I’m currently a software engineering student at ESPRIT School of Engineering, Tunisia.  
   
 
-- 🌱 I’m currently learning about Computer Vision & Deep Learning.  
+🌱 I’m currently learning about Computer Vision & Deep Learning.  
   
 
-- ❓ Ask me about anything related to Machine Learning and related subfields.   
+❓ Ask me about anything related to Machine Learning and related subfields.   
   
 
-- ⚡ Fun fact: I enjoy walking and listening to podcasts.   
+⚡ Fun fact: I enjoy walking and listening to podcasts.   
 
 
 
