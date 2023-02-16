@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="#">Abdessalem Mami!</a></h1>
 <h3 align="center">A brave guy doing machine learning 😜</h3>
 
-<a href="https://github.com/abdessalemmami" target="_blank">
+<a href="https://github.com/abmami" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/AbdessalemMami" target="_blank">
