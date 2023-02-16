@@ -15,7 +15,7 @@
 <br/>  
 <br/> 
 
-🎓 I’m currently a software engineering student at ESPRIT School of Engineering, Tunisia.  
+🎓 I’m currently an AI engineering student at ESPRIT School of Engineering, Tunisia.  
   
 
 🌱 I’m currently learning about Computer Vision & Deep Learning.  
