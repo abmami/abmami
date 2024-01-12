@@ -1,23 +1,42 @@
-<h1 align="center"> Hi 👋, I'm <a href="http://abmami.github.io/" target="_blank">Abdessalem Mami!</a></h1>
-<h3 align="center">A brave guy doing machine learning 😜</h3>
-<br/>  
+## 👋 Hello, I'm Abdessalem Mami
 
-🎓 I’m a third-year engineering student specializing in Artificial Intelligence at ESPRIT School of Engineering in Tunisia.  
-  
+## Interests
 
-🌱 I’m currently learning about Computer Vision & Natural Language Processing.  
-  
+Probability and Statistics • Software Engineering • Machine Learning • Computer Vision • Natural Language Processing • Visualization • Clean Code • Open Source Software • Knowledge Sharing 
 
-❓ Ask me about anything related to Machine Learning and related subfields.   
-  
+## Contacts 
+**Personal Website:** [abmami.github.io](https://abmami.github.io/)
 
-⚡ Fun fact: I enjoy walking and listening to podcasts.   
+**E-Mail:** [mami.abdessalem@gmail.com](mailto:mami.abdessalem@gmail.com)
 
-<br/>  
+**Social Media:**
+<div>
+    <a href="https://www.linkedin.com/in/abdessalem-mami" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
+    </a>&nbsp
+    <a href="https://calendly.com/xx/chat" target="_blank">
+        <img src="https://img.shields.io/badge/Calendly-Let's%20chat!-brightgreen?style=for-the-badge&logo=googlechat" height="30">
+    </a>&nbsp
+    <a href="https://www.buymeacoffee.com/xx" target="_blank">    
+        <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="125"
+    </a>&nbsp
+    
+</div>
 
-### Get in touch with me 😄
-<a href="https://linkedin.com/in/abdessalem-mami" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+---
+
+## Tech Stack
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="code" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GITHUB" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/>  
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r-project" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="55" height="55"/> 
+</p>
+
+---
 
 
